@@ -1,0 +1,21 @@
+Hello Everyone, 
+We have not completed some of the topics in regex, so I want you to practice those on your own. ~amnsdqi@gmail.com
+We will complete them on Monday, but until then, I want you all to give it a try and solve the assignment questions.
+Note: Please do not use ChatGPT in case you are stuck anywhere, PLEASEEEE......
+amnsdqi@gmail.com
+
+ a) Removes all the special characters from the text.Hello Everyone 
+We have not completed some of the topics in regex so I want you to practice those on your own amnsdqigmailcom
+We will complete them on Monday but until then I want you all to give it a try and solve the assignment questions
+Note Please do not use ChatGPT in case you are stuck anywhere PLEASEEEE
+amnsdqigmailcom
+
+ a) Removes all the special characters from the text.Hello Everyone 
+We have not completed some of the topics in regex so I want you to practice those on your own amnsdqigmailcom
+We will complete them on Monday but until then I want you all to give it a try and solve the assignment questions
+Note Please do not use ChatGPT in case you are stuck anywhere PLEASEEEE
+amnsdqigmailcom
+
+ b) Removes all the new line characters from the textHello Everyone, We have not completed some of the topics in regex, so I want you to practice those on your own. ~amnsdqi@gmail.comWe will complete them on Monday, but until then, I want you all to give it a try and solve the assignment questions.Note: Please do not use ChatGPT in case you are stuck anywhere, PLEASEEEE......amnsdqi@gmail.com
+
+ b) Removes all the new line characters from the textHello Everyone, We have not completed some of the topics in regex, so I want you to practice those on your own. ~amnsdqi@gmail.comWe will complete them on Monday, but until then, I want you all to give it a try and solve the assignment questions.Note: Please do not use ChatGPT in case you are stuck anywhere, PLEASEEEE......amnsdqi@gmail.com
